@@ -1,3 +1,3 @@
 # simple maven-project
-wait tobe polled 
-section 2
+wait tobe polled
+wait and see
